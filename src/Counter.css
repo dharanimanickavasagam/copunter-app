@@ -1,0 +1,13 @@
+.border {
+  margin-top: 50px;
+}
+
+.incrementRed {
+  background-color: rgb(12, 12, 11);
+  color: red;
+}
+
+.incrementGreen {
+  background-color: whitesmoke;
+  color: green;
+}
